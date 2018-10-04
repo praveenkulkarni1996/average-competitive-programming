@@ -15,8 +15,7 @@ that I usually find on codeforces there.
 * [__Heavy Light Decomposition Algorithm__](https://codeforces.com/blog/entry/22072)  
   Clean and Efficient Implmenetation of HLD.
 
-* [__A little bit of classics: dynamic programming over subsets and paths in graphs
-__](https://codeforces.com/blog/entry/337)  
+* [__A little bit of classics: dynamic programming over subsets and paths in graphs__](https://codeforces.com/blog/entry/337)  
   Exactly what the title says.
 
 * [__Z Algorithm__](https://codeforces.com/blog/entry/3107)  
@@ -27,6 +26,9 @@ __](https://codeforces.com/blog/entry/337)
 
 * [__Nim: Algorithmic Game__](https://codeforces.com/blog/entry/3657)
   I think the wiki is better, and contains more variations.
+
+* [__Mo's Algorithm on Trees__](https://codeforces.com/blog/entry/43230)  
+  Magic on paper. For subtree/path/range queries on trees.
 
 * [__Top 10 optimizations 2017 - (collectors edition)__](https://codeforces.com/blog/entry/53168)  
   The greatest codeforces blog of all time.
