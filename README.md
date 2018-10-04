@@ -15,5 +15,18 @@ that I usually find on codeforces there.
 * [__Heavy Light Decomposition Algorithm__](https://codeforces.com/blog/entry/22072)  
   Clean and Efficient Implmenetation of HLD.
 
+* [__A little bit of classics: dynamic programming over subsets and paths in graphs
+__](https://codeforces.com/blog/entry/337)  
+  Exactly what the title says.
+
+* [__Z Algorithm__](https://codeforces.com/blog/entry/3107)  
+  For string algorithms specialists.
+
+* [__Partially Ordered Sets__](https://codeforces.com/blog/entry/3781)
+  Mathematical definitions and Dilworth's theorems.
+
+* [__Nim: Algorithmic Game__](https://codeforces.com/blog/entry/3657)
+  I think the wiki is better, and contains more variations.
+
 * [__Top 10 optimizations 2017 - (collectors edition)__](https://codeforces.com/blog/entry/53168)  
   The greatest codeforces blog of all time.
