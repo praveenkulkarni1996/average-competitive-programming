@@ -21,10 +21,10 @@ that I usually find on codeforces there.
 * [__Z Algorithm__](https://codeforces.com/blog/entry/3107)  
   For string algorithms specialists.
 
-* [__Partially Ordered Sets__](https://codeforces.com/blog/entry/3781) 
+* [__Partially Ordered Sets__](https://codeforces.com/blog/entry/3781)  
   Mathematical definitions and Dilworth's theorems.
 
-* [__Nim: Algorithmic Game__](https://codeforces.com/blog/entry/3657)
+* [__Nim: Algorithmic Game__](https://codeforces.com/blog/entry/3657)  
   I think the wiki is better, and contains more variations.
 
 * [__Mo's Algorithm on Trees__](https://codeforces.com/blog/entry/43230)  
@@ -33,6 +33,11 @@ that I usually find on codeforces there.
 * [__Tutorial on FFT/NTT (part 1)__](https://codeforces.com/blog/entry/43499) and [__part 2__](https://codeforces.com/blog/entry/48798)  
   Unusually high effort post on codeforces.
   
+* [__Dynamic Programming Optimizations__](https://codeforces.com/blog/entry/8219)  
+  Short and dense content. Knuth, DnC and Convex Hulls.
+
+* [__Incredibly beautiful DP optimization ...__](https://codeforces.com/blog/entry/49691)  
+  Describes the Knuth DP optimization on a problem. (but applies a second one on top of that).
 
 * [__Top 10 optimizations 2017 - (collectors edition)__](https://codeforces.com/blog/entry/53168)  
   The greatest codeforces blog of all time.
