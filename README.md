@@ -21,7 +21,7 @@ that I usually find on codeforces there.
 * [__Z Algorithm__](https://codeforces.com/blog/entry/3107)  
   For string algorithms specialists.
 
-* [__Partially Ordered Sets__](https://codeforces.com/blog/entry/3781)
+* [__Partially Ordered Sets__](https://codeforces.com/blog/entry/3781) 
   Mathematical definitions and Dilworth's theorems.
 
 * [__Nim: Algorithmic Game__](https://codeforces.com/blog/entry/3657)
@@ -29,6 +29,10 @@ that I usually find on codeforces there.
 
 * [__Mo's Algorithm on Trees__](https://codeforces.com/blog/entry/43230)  
   Magic on paper. For subtree/path/range queries on trees.
+
+* [__Tutorial on FFT/NTT (part 1)__](https://codeforces.com/blog/entry/43499) and [__part 2__](https://codeforces.com/blog/entry/48798)  
+  Unusually high effort post on codeforces.
+  
 
 * [__Top 10 optimizations 2017 - (collectors edition)__](https://codeforces.com/blog/entry/53168)  
   The greatest codeforces blog of all time.
