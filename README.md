@@ -45,5 +45,8 @@ that I usually find on codeforces there.
 * [__Linear Sieve__](https://codeforces.com/blog/entry/54090)  
   Sieve of Erathosthenes concepts.
 
+* [__Invariants and Monovariants__](https://codeforces.com/blog/entry/57216)  
+  Discussion includes IMO problems.
+
 * [__Top 10 optimizations 2017 - (collectors edition)__](https://codeforces.com/blog/entry/53168)  
   The greatest codeforces blog of all time.
