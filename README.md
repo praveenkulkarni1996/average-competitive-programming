@@ -50,3 +50,9 @@ that I usually find on codeforces there.
 
 * [__Top 10 optimizations 2017 - (collectors edition)__](https://codeforces.com/blog/entry/53168)  
   The greatest codeforces blog of all time.
+
+
+## Problem Collection Blogs
+
+* [__Segment Tree Problems__](https://codeforces.com/blog/entry/22616)  
+  Exactly what it the title reads.
