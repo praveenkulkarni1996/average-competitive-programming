@@ -48,8 +48,11 @@ that I usually find on codeforces there.
 * [__Invariants and Monovariants__](https://codeforces.com/blog/entry/57216)  
   Discussion includes IMO problems.
 
-* [__Random number generators__](https://codeforces.com/blog/entry/61587)
+* [__Random number generators__](https://codeforces.com/blog/entry/61587)  
   Why we shouldn't use `rand()`.
+
+* [__Burnside's Lemma__](https://codeforces.com/blog/entry/62401)  
+  Burnside's Lemma explained with one problem. No proof.
 
 * [__Top 10 optimizations 2017 - (collectors edition)__](https://codeforces.com/blog/entry/53168)  
   The greatest codeforces blog of all time.
