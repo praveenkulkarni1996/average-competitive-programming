@@ -54,6 +54,9 @@ that I usually find on codeforces there.
 * [__Burnside's Lemma__](https://codeforces.com/blog/entry/62401)  
   Burnside's Lemma explained with one problem. No proof.
 
+* [__0-1 BFS__](https://codeforces.com/blog/entry/22276) 
+  Shortest path algorithm for weighted graphs where weights are either `0` or `1`.
+
 * [__Top 10 optimizations 2017 - (collectors edition)__](https://codeforces.com/blog/entry/53168)  
   The greatest codeforces blog of all time.
 
