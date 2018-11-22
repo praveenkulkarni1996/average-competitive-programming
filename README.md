@@ -78,3 +78,4 @@ that I usually find on codeforces there.
 ## Implementations
 
 * [__tourist's Splay Trees__](https://codeforces.com/contest/899/submission/44463457)  
+* [__mnbvmar's Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
