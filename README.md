@@ -80,3 +80,5 @@ that I usually find on codeforces there.
 * [__tourist's Splay Trees__](https://codeforces.com/contest/899/submission/44463457)  
 * [__mnbvmar's Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
 * [__mnbvmar's Geometry Suite and Dinic__](https://codeforces.com/contest/1055/submission/45543950)  
+* [__tourist's Debugging and FFT__](https://codeforces.com/contest/986/submission/42104811)  
+* [__tourist's Number Theory Primitives__](https://codeforces.com/contest/986/submission/38743952)  
