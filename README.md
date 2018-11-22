@@ -38,6 +38,9 @@ that I usually find on codeforces there.
 
 * [__Incredibly beautiful DP optimization ...__](https://codeforces.com/blog/entry/49691)  
   Describes the Knuth DP optimization on a problem. (but applies a second one on top of that).
+  
+* [__Non-trivial DP Tricks and Techniques__](https://codeforces.com/blog/entry/47764)  
+  Exactly what the title says.
 
 * [__Staircase Nim__](https://codeforces.com/blog/entry/44651)  
   A clever variant of the nim game.
@@ -59,6 +62,9 @@ that I usually find on codeforces there.
 
 * [__Tof on Ternary Search__](https://codeforces.com/blog/entry/60702)  
   Hack to improve convexity for ternary search (by spitting on it).
+
+* [__A multiple binary search optimization__](https://codeforces.com/blog/entry/62602)  
+  A randomized algorithm with very good average case runtime but very bad worst case runtime, which can be applied while trying to optimize multiple binary searches.
 
 * [__Top 10 optimizations 2017 - (collectors edition)__](https://codeforces.com/blog/entry/53168)  
   The greatest codeforces blog of all time.
