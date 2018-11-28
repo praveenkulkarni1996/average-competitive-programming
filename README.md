@@ -66,6 +66,11 @@ that I usually find on codeforces there.
 * [__A multiple binary search optimization__](https://codeforces.com/blog/entry/62602)  
   A randomized algorithm with very good average case runtime but very bad worst case runtime, which can be applied while trying to optimize multiple binary searches.
 
+* [__Segment Tree Beats__](https://codeforces.com/blog/entry/57319)  
+  Super-clever tricks for segment trees.
+
+## Joke Threads
+
 * [__Top 10 optimizations 2017 - (collectors edition)__](https://codeforces.com/blog/entry/53168)  
   The greatest codeforces blog of all time.
 
