@@ -88,6 +88,7 @@ that I usually find on codeforces there.
 * [__tourist's Debugging and FFT__](https://codeforces.com/contest/986/submission/42104811)  
 * [__tourist's Number Theory Primitives__](https://codeforces.com/contest/986/submission/38743952)  
 * [__Benq's Mincost Maxflow__](https://codeforces.com/contest/1061/submission/46078212)
+* [__O...O's Number Theory Suite__](https://codeforces.com/contest/687/submission/18786970)
 
 ## Errichto's Streams
 
