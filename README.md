@@ -68,6 +68,9 @@ that I usually find on codeforces there.
 
 * [__Segment Tree Beats__](https://codeforces.com/blog/entry/57319)  
   Super-clever tricks for segment trees.
+  
+* [__DSU on Trees__](https://codeforces.com/blog/entry/44351)  
+  DSU on trees, with interesting discussion of alternate methods.  
 
 ## Joke Threads
 
