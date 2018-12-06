@@ -3,7 +3,20 @@
 * [Blogs](#blogs)
 * [Implementations](#implementations)
 
-# Blogs
+## Implementations
+
+* [__(tourist) Graph Algorithms__](https://codeforces.com/contest/757/submission/32228238): includes Dijkstra and Dominators  
+* [__(tourist) Splay Trees__](https://codeforces.com/contest/899/submission/44463457)  
+* [__(tourist) Hungarian Algorithm__](https://codeforces.com/contest/575/submission/32309104)  
+* [__(tourist) Debugging and FFT__](https://codeforces.com/contest/986/submission/42104811)  
+* [__(tourist) Number Theory Primitives__](https://codeforces.com/contest/986/submission/38743952)  
+* [__(tourist) Manachar's Algorithm__](https://codeforces.com/contest/17/submission/31475739)  
+* [__(mnbvmar) Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
+* [__(mnbvmar) Geometry Suite and Dinic__](https://codeforces.com/contest/1055/submission/45543950)  
+* [__(Benq) Mincost Maxflow__](https://codeforces.com/contest/1061/submission/46078212)  
+* [__(O...O) Number Theory Suite__](https://codeforces.com/contest/687/submission/18786970)  
+
+## Blogs
 
 This is a joke/pun/homage to the awesome series. I will add the `awesome` blogs 
 that I usually find on codeforces there.
@@ -87,18 +100,6 @@ that I usually find on codeforces there.
 
 * [__Segment Tree Problems__](https://codeforces.com/blog/entry/22616)  
   Exactly what it the title reads.
-
-## Implementations
-
-* [__(tourist) Graph Algorithms__](https://codeforces.com/contest/757/submission/32228238): includes Dijkstra and Dominators  
-* [__(tourist) Splay Trees__](https://codeforces.com/contest/899/submission/44463457)  
-* [__(tourist) Hungarian Algorithm__](https://codeforces.com/contest/575/submission/32309104)  
-* [__(tourist) Debugging and FFT__](https://codeforces.com/contest/986/submission/42104811)  
-* [__(tourist) Number Theory Primitives__](https://codeforces.com/contest/986/submission/38743952)  
-* [__(mnbvmar) Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
-* [__(mnbvmar) Geometry Suite and Dinic__](https://codeforces.com/contest/1055/submission/45543950)  
-* [__(Benq) Mincost Maxflow__](https://codeforces.com/contest/1061/submission/46078212)  
-* [__(O...O) Number Theory Suite__](https://codeforces.com/contest/687/submission/18786970)  
 
 ## Errichto's Streams
 
