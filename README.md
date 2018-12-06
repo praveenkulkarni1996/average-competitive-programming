@@ -5,8 +5,9 @@
 
 ## Implementations
 
-* [__(tourist) Graph Algorithms__](https://codeforces.com/contest/757/submission/32228238): includes Dijkstra and Dominators
+* [__(tourist) Shortest Path Algorithms__](https://codeforces.com/contest/757/submission/32228238): includes Dijkstra and Dominators
 * [__(tourist) Flow Algorithms__](https://codeforces.com/contest/343/submission/31188435): includes Gomory Hu
+* [__(tourist) Graph Algorithms__](https://codeforces.com/contest/860/submission/32159885): includes DFS forests, Heavy-Light Decomposition and Fenwick Trees (bonus!)
 * [__(tourist) Splay Trees__](https://codeforces.com/contest/899/submission/44463457)  
 * [__(tourist) Hungarian Algorithm__](https://codeforces.com/contest/575/submission/32309104)
 * [__(tourist) Segment Trees__](https://codeforces.com/contest/875/submission/31464970)  
