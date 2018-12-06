@@ -7,7 +7,8 @@
 
 * [__(tourist) Graph Algorithms__](https://codeforces.com/contest/757/submission/32228238): includes Dijkstra and Dominators  
 * [__(tourist) Splay Trees__](https://codeforces.com/contest/899/submission/44463457)  
-* [__(tourist) Hungarian Algorithm__](https://codeforces.com/contest/575/submission/32309104)  
+* [__(tourist) Hungarian Algorithm__](https://codeforces.com/contest/575/submission/32309104)
+* [__(tourist) Segment Trees__](https://codeforces.com/contest/875/submission/31464970)  
 * [__(tourist) Debugging and FFT__](https://codeforces.com/contest/986/submission/42104811)  
 * [__(tourist) Number Theory Primitives__](https://codeforces.com/contest/986/submission/38743952)  
 * [__(tourist) Manachar's Algorithm__](https://codeforces.com/contest/17/submission/31475739)  
