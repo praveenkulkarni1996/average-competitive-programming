@@ -1,7 +1,7 @@
 # Average Competitive Programming
 
-* [Blogs](blogs)
-* [Implementations](Implementations)
+* [Blogs](#blogs)
+* [Implementations](#implementations)
 
 # Blogs
 
