@@ -15,6 +15,7 @@
 * [__(tourist) Number Theory Primitives__](https://codeforces.com/contest/986/submission/38743952)  
 * [__(tourist) Manachar's Algorithm__](https://codeforces.com/contest/17/submission/31475739)
 * [__(tourist) Graph Cycles__](https://codeforces.com/contest/859/submission/30760471)  
+* [__(tourist) Treaps__](https://codeforces.com/contest/856/submission/30270604) 
 * [__(mnbvmar) Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
 * [__(mnbvmar) Geometry Suite and Dinic__](https://codeforces.com/contest/1055/submission/45543950)  
 * [__(Benq) Mincost Maxflow__](https://codeforces.com/contest/1061/submission/46078212)  
