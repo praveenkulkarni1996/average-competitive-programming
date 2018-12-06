@@ -1,5 +1,10 @@
 # Average Competitive Programming
 
+* [Blogs](blogs)
+* [Implementations](Implementations)
+
+# Blogs
+
 This is a joke/pun/homage to the awesome series. I will add the `awesome` blogs 
 that I usually find on codeforces there.
 
@@ -85,14 +90,14 @@ that I usually find on codeforces there.
 
 ## Implementations
 
-* [__tourist's Splay Trees__](https://codeforces.com/contest/899/submission/44463457)  
-* [__tourist's Hungarian Algorithm__](https://codeforces.com/contest/575/submission/32309104)  
-* [__tourist's Debugging and FFT__](https://codeforces.com/contest/986/submission/42104811)  
-* [__tourist's Number Theory Primitives__](https://codeforces.com/contest/986/submission/38743952)  
-* [__mnbvmar's Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
-* [__mnbvmar's Geometry Suite and Dinic__](https://codeforces.com/contest/1055/submission/45543950)  
-* [__Benq's Mincost Maxflow__](https://codeforces.com/contest/1061/submission/46078212)  
-* [__O...O's Number Theory Suite__](https://codeforces.com/contest/687/submission/18786970)  
+* [__(tourist) Splay Trees__](https://codeforces.com/contest/899/submission/44463457)  
+* [__(tourist) Hungarian Algorithm__](https://codeforces.com/contest/575/submission/32309104)  
+* [__(tourist) Debugging and FFT__](https://codeforces.com/contest/986/submission/42104811)  
+* [__(tourist) Number Theory Primitives__](https://codeforces.com/contest/986/submission/38743952)  
+* [__(mnbvmar) Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
+* [__(mnbvmar) Geometry Suite and Dinic__](https://codeforces.com/contest/1055/submission/45543950)  
+* [__(Benq) Mincost Maxflow__](https://codeforces.com/contest/1061/submission/46078212)  
+* [__(O...O) Number Theory Suite__](https://codeforces.com/contest/687/submission/18786970)  
 
 ## Errichto's Streams
 
