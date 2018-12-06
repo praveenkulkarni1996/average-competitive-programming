@@ -86,12 +86,13 @@ that I usually find on codeforces there.
 ## Implementations
 
 * [__tourist's Splay Trees__](https://codeforces.com/contest/899/submission/44463457)  
-* [__mnbvmar's Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
-* [__mnbvmar's Geometry Suite and Dinic__](https://codeforces.com/contest/1055/submission/45543950)  
+* [__tourist's Hungarian Algorithm__](https://codeforces.com/contest/575/submission/32309104)  
 * [__tourist's Debugging and FFT__](https://codeforces.com/contest/986/submission/42104811)  
 * [__tourist's Number Theory Primitives__](https://codeforces.com/contest/986/submission/38743952)  
-* [__Benq's Mincost Maxflow__](https://codeforces.com/contest/1061/submission/46078212)
-* [__O...O's Number Theory Suite__](https://codeforces.com/contest/687/submission/18786970)
+* [__mnbvmar's Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
+* [__mnbvmar's Geometry Suite and Dinic__](https://codeforces.com/contest/1055/submission/45543950)  
+* [__Benq's Mincost Maxflow__](https://codeforces.com/contest/1061/submission/46078212)  
+* [__O...O's Number Theory Suite__](https://codeforces.com/contest/687/submission/18786970)  
 
 ## Errichto's Streams
 
@@ -100,5 +101,3 @@ Kamil deserves a subheading on his own.
 __Lecture 1__: TODO  
 __Lecture 2__: TODO  
 __Lecture 3__: Dynamic programming [__Notes__](https://codeforces.com/blog/entry/63533)  
-
-
