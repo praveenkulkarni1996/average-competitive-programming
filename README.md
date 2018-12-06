@@ -90,6 +90,7 @@ that I usually find on codeforces there.
 
 ## Implementations
 
+* [__(tourist) Graph Algorithms__](https://codeforces.com/contest/757/submission/32228238): includes Dijkstra and Dominators  
 * [__(tourist) Splay Trees__](https://codeforces.com/contest/899/submission/44463457)  
 * [__(tourist) Hungarian Algorithm__](https://codeforces.com/contest/575/submission/32309104)  
 * [__(tourist) Debugging and FFT__](https://codeforces.com/contest/986/submission/42104811)  
