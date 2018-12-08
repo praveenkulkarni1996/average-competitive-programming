@@ -2,7 +2,7 @@
 
 * [Implementations](#implementations)
 * [Blogs](#blogs)
-* [Joke Threads](#joke threads)
+* [Joke Threads](#joke-threads)
 
 ## Implementations
 
