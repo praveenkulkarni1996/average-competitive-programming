@@ -25,6 +25,7 @@
 * [__(mnbvmar) Geometry Suite and Dinic__](https://codeforces.com/contest/1055/submission/45543950)  
 * [__(Benq) Mincost Maxflow__](https://codeforces.com/contest/1061/submission/46078212)  
 * [__(O...O) Number Theory Suite__](https://codeforces.com/contest/687/submission/18786970)  
+* [__(tourist) Sieves__](https://codeforces.com/contest/776/submission/24922427) for Euler Phi
 
 ## Blogs
 
