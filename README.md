@@ -103,6 +103,9 @@ that I usually find on codeforces there.
   
 * [__Bitmask DP: Sum over subsets__](https://codeforces.com/blog/entry/45223)  
   Treatment of bitmask dp optimization from ```O(3^n)``` to ```O(n 2^n)```.
+  
+* [__Rotating Calipers__](https://codeforces.com/blog/entry/46162)
+  Look at SuperDewd's comment.
 
 ## Joke Threads
 
