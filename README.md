@@ -96,7 +96,7 @@ that I usually find on codeforces there.
   A randomized algorithm with very good average case runtime but very bad worst case runtime, which can be applied while trying to optimize multiple binary searches.
 
 * [__Segment Tree Beats__](https://codeforces.com/blog/entry/57319)  
-  Super-clever tricks for segment trees.
+  Super-clever tricks for segment trees. [Relevant code](https://codeforces.com/contest/855/submission/30680703)  
   
 * [__DSU on Trees__](https://codeforces.com/blog/entry/44351)  
   DSU on trees, with interesting discussion of alternate methods.  
