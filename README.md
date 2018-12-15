@@ -100,6 +100,9 @@ that I usually find on codeforces there.
   
 * [__DSU on Trees__](https://codeforces.com/blog/entry/44351)  
   DSU on trees, with interesting discussion of alternate methods.  
+  
+* [__Bitmask DP: Sum over subsets__](https://codeforces.com/blog/entry/45223)  
+  Treatment of bitmask dp optimization from ```O(3^n)``` to ```O(n 2^n)```.
 
 ## Joke Threads
 
