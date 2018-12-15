@@ -104,8 +104,11 @@ that I usually find on codeforces there.
 * [__Bitmask DP: Sum over subsets__](https://codeforces.com/blog/entry/45223)  
   Treatment of bitmask dp optimization from ```O(3^n)``` to ```O(n 2^n)```.
   
-* [__Rotating Calipers__](https://codeforces.com/blog/entry/46162)
+* [__Rotating Calipers__](https://codeforces.com/blog/entry/46162)  
   Look at SuperDewd's comment.
+ 
+* [__Crazy DP optimization. Blogewoosh #4__](https://codeforces.com/blog/entry/61501)  
+  Radewoosh's fourth blog on a dp-recursion memory optimization that is absolutely crazy.
 
 ## Joke Threads
 
