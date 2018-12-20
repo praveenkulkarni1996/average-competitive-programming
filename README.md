@@ -26,6 +26,8 @@
 * [__(Benq) Mincost Maxflow__](https://codeforces.com/contest/1061/submission/46078212)  
 * [__(O...O) Number Theory Suite__](https://codeforces.com/contest/687/submission/18786970)  
 * [__(tourist) Sieves__](https://codeforces.com/contest/776/submission/24922427) for Euler Phi
+* [__(rajat1603) Convex Hull Trick__](https://codeforces.com/contest/1083/submission/46994711)  
+
 
 ## Blogs
 
