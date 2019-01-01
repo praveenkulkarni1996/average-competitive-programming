@@ -111,6 +111,9 @@ that I usually find on codeforces there.
  
 * [__Crazy DP optimization. Blogewoosh #4__](https://codeforces.com/blog/entry/61501)  
   Radewoosh's fourth blog on a dp-recursion memory optimization that is absolutely crazy.
+  
+* [__Linear Recurrence and Berlekamp-Massey Algorithm__](https://codeforces.com/blog/entry/61306)
+  Exactly what the title says.
 
 ## Joke Threads
 
