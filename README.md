@@ -117,6 +117,9 @@ that I usually find on codeforces there.
   
 * [__Convex Hull Trick — Geometry being useful__](https://codeforces.com/blog/entry/63823)  
   Yet another convex hull trick blog. But this has the best pictures.  
+  
+* [__Gaussian Elimination__](https://codeforces.com/blog/entry/60003)  
+  For XOR Spaces.
 
 ## Joke Threads
 
