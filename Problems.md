@@ -12,3 +12,5 @@
 
 ### XOR finite vector space
 * https://codeforces.com/contest/1100/problem/F ([submission](https://codeforces.com/contest/1100/submission/48351596))
+* https://codeforces.com/contest/959/problem/F
+
