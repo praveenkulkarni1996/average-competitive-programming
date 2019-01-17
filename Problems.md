@@ -13,6 +13,7 @@
 ### XOR finite vector space
 * https://codeforces.com/contest/1100/problem/F ([submission](https://codeforces.com/contest/1100/submission/48351596))
 * https://codeforces.com/contest/959/problem/F
+* https://codeforces.com/contest/1101/problem/G ([submission](https://codeforces.com/contest/1101/submission/48470744))
 
 ### Fenwick Trees 
 * https://codeforces.com/contest/1099/problem/F ([submission](https://codeforces.com/contest/1099/submission/48487650))
