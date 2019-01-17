@@ -4,6 +4,10 @@
 * [Blogs](#blogs)
 * [Joke Threads](#joke-threads)
 
+## My Implementations
+
+* [__Fenwick Tree__](https://codeforces.com/contest/1099/submission/48487650)
+
 ## Implementations
 
 * [__(tourist) Shortest Path Algorithms__](https://codeforces.com/contest/757/submission/32228238): includes Dijkstra and Dominators
