@@ -17,3 +17,6 @@
 
 ### Fenwick Trees 
 * https://codeforces.com/contest/1099/problem/F ([submission](https://codeforces.com/contest/1099/submission/48487650))
+
+### Kruskal Ordering
+* https://codeforces.com/contest/1108/problem/F ([submission](https://codeforces.com/contest/1108/submission/48859776))
