@@ -2,6 +2,7 @@
 
 ### GCD Inclusion Exclusion
 * https://codeforces.com/contest/839/problem/D
+* https://codeforces.com/contest/1036/problem/F
 
 
 ### Solve for prime factors only
