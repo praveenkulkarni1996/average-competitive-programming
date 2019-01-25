@@ -127,6 +127,9 @@ that I usually find on codeforces there.
   
 * [__Gaussian Elimination__](https://codeforces.com/blog/entry/60003)  
   For XOR Spaces.
+  
+* [__Persistence__](https://discuss.codechef.com/questions/101647/persistence-made-simple-tutorial)  
+  Very good explanation of functional persistence.
 
 ## Joke Threads
 
