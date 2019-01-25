@@ -9,6 +9,7 @@
 * [__Fenwick Tree__](https://codeforces.com/contest/1099/submission/48487650) 
 * [__Gaussian XOR-field__](https://codeforces.com/contest/959/submission/48913934)  
 * [__Disjoint Set Union__](https://codeforces.com/contest/1108/submission/48860924)
+* [__Lazy Segment Tree__](https://codeforces.com/contest/1108/submission/48857570)
 
 ## Implementations
 
