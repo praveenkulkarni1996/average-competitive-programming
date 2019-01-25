@@ -20,3 +20,6 @@
 
 ### Kruskal Ordering
 * https://codeforces.com/contest/1108/problem/F ([submission](https://codeforces.com/contest/1108/submission/48859776))
+
+### Hamilton Bitmask DP
+* https://codeforces.com/contest/1102/submission/48174909 ([submission](https://codeforces.com/contest/1102/submission/48174909))
