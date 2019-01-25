@@ -6,7 +6,8 @@
 
 ## My Implementations
 
-* [__Fenwick Tree__](https://codeforces.com/contest/1099/submission/48487650)
+* [__Fenwick Tree__](https://codeforces.com/contest/1099/submission/48487650) 
+* [__Gaussian XOR-field__](https://codeforces.com/contest/959/submission/48913934)  
 
 ## Implementations
 
