@@ -2,8 +2,7 @@
 
 ### GCD Inclusion Exclusion
 * https://codeforces.com/contest/839/problem/D
-* https://codeforces.com/contest/1036/problem/F
-
+* https://codeforces.com/contest/1036/problem/F ([submission](https://codeforces.com/contest/1036/submission/49042562))
 
 ### Solve for prime factors only
 * https://codeforces.com/contest/837/problem/F
@@ -24,3 +23,6 @@
 
 ### Hamilton Bitmask DP
 * https://codeforces.com/contest/1102/problem/F ([submission](https://codeforces.com/contest/1102/submission/48174909))
+
+### Non-Trivial Segment Tree Problems
+* https://codeforces.com/contest/1107/problem/G ([submission](https://codeforces.com/contest/1107/submission/49037542)
