@@ -10,6 +10,7 @@
 * [__Gaussian XOR-field__](https://codeforces.com/contest/959/submission/48913934)  
 * [__Disjoint Set Union__](https://codeforces.com/contest/1108/submission/48860924)
 * [__Lazy Segment Tree__](https://codeforces.com/contest/1108/submission/48857570)
+* [__Iterative Segment Tree__](https://codeforces.com/contest/1107/submission/49037542)
 
 ## Implementations
 
