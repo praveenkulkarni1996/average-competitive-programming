@@ -32,3 +32,4 @@
 
 ### 2D Two Pointers
 * https://codeforces.com/problemset/problem/70/C (TODO)
+* https://codeforces.com/problemset/problem/424/D (TODO)
