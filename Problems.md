@@ -26,3 +26,6 @@
 
 ### Non-Trivial Segment Tree Problems
 * https://codeforces.com/contest/1107/problem/G ([submission](https://codeforces.com/contest/1107/submission/49037542)
+
+### Square-Root Decomposition
+* https://codeforces.com/problemset/problem/323/C (TODO) (with ordered_set or segment trees) (recent problem extension).
