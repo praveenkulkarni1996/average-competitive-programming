@@ -29,3 +29,6 @@
 
 ### Square-Root Decomposition
 * https://codeforces.com/problemset/problem/323/C (TODO) (with ordered_set or segment trees) (recent problem extension).
+
+### 2D Two Pointers
+* https://codeforces.com/problemset/problem/70/C (TODO)
