@@ -134,6 +134,9 @@ that I usually find on codeforces there.
   
 * [__Persistence__](https://discuss.codechef.com/questions/101647/persistence-made-simple-tutorial)  
   Very good explanation of functional persistence.
+  
+* [__General Ideas__](https://codeforces.com/blog/entry/48417)  
+  Excellent collection of non-trivial ideas by __adamant__.
 
 ## Joke Threads
 
