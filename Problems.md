@@ -35,3 +35,6 @@
 ### 2D Two Pointers
 * https://codeforces.com/problemset/problem/70/C (TODO)
 * https://codeforces.com/problemset/problem/424/D (TODO)
+
+### Ramsey Theory
+* (__TODO__) https://codeforces.com/contest/1104/problem/E
