@@ -10,7 +10,7 @@
 ### Parallel Binary Search (Blogewoosh #6)
 * https://codeforces.com/contest/1101/problem/F (TODO: DP solution)
 
-### XOR finite vector space
+### XOR finite fields
 * https://codeforces.com/contest/1100/problem/F ([submission](https://codeforces.com/contest/1100/submission/48351596))
 * https://codeforces.com/contest/959/problem/F ([submission](https://codeforces.com/contest/959/submission/48876636))
 * https://codeforces.com/contest/1101/problem/G ([submission](https://codeforces.com/contest/1101/submission/48470744))
