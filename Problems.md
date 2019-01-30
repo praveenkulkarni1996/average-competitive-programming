@@ -38,3 +38,6 @@
 
 ### Ramsey Theory
 * (__TODO__) https://codeforces.com/contest/1104/problem/E
+
+### Linearity of Expectations
+* https://codeforces.com/contest/1096/problem/F ([submission](https://codeforces.com/contest/1096/submission/49203495)
