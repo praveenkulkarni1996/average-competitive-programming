@@ -1,6 +1,6 @@
 # Average Competitive Programming
 
-Please also take a look at the [Problems.md](./problems.md) file, which has grouped some moderately difficult problems by their problem categories.
+Please also take a look at the [Problems.md](./Problems.md) file, which has grouped some moderately difficult problems by their problem categories.
 
 * [My Implementations](#my-implementations)
 * [Implementations](#implementations)
