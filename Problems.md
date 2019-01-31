@@ -42,3 +42,6 @@
 
 ### Linearity of Expectations
 * https://codeforces.com/contest/1096/problem/F ([submission](https://codeforces.com/contest/1096/submission/49203495))
+
+### Matrix Exponentiation
+* https://codeforces.com/problemset/problem/1106/F ([submission](https://codeforces.com/contest/1106/submission/49292689))
