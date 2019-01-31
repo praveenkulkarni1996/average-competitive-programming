@@ -45,3 +45,6 @@
 
 ### Matrix Exponentiation
 * https://codeforces.com/problemset/problem/1106/F ([submission](https://codeforces.com/contest/1106/submission/49292689))
+
+### Convex Hull Trick 
+* (__TODO__) https://codeforces.com/problemset/problem/1083/E
