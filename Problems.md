@@ -31,7 +31,8 @@
 * https://codeforces.com/problemset/problem/1045/G (TODO: do this in increasing order of IQ)
 
 ### Square-Root Decomposition
-* https://codeforces.com/problemset/problem/323/C (TODO) (with ordered_set or segment trees) (recent problem extension).
+* https://codeforces.com/problemset/problem/323/C (TODO)
+* https://codeforces.com/contest/1093/problem/E (extension of previous problems: sqrt + sets).
 
 ### 2D Two Pointers
 * https://codeforces.com/problemset/problem/70/C (TODO)
