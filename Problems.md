@@ -49,3 +49,6 @@
 
 ### Convex Hull Trick 
 * (__TODO__) https://codeforces.com/problemset/problem/1083/E
+
+### Greedy 
+* https://codeforces.com/contest/1098/problem/D ([submission](https://codeforces.com/contest/1098/submission/49357235)) Almost Huffman-esqe
