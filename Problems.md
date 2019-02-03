@@ -52,3 +52,6 @@
 
 ### Greedy 
 * https://codeforces.com/contest/1098/problem/D ([submission](https://codeforces.com/contest/1098/submission/49357235)) Almost Huffman-esqe
+
+### Sortings and Rearrangement Arguments 
+* https://codeforces.com/contest/798/problem/D ([submission](https://codeforces.com/contest/798/submission/49387937))
