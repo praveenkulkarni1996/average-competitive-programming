@@ -138,6 +138,9 @@ that I usually find on codeforces there.
   
 * [__General Ideas__](https://codeforces.com/blog/entry/48417)  
   Excellent collection of non-trivial ideas by __adamant__.
+  
+* [__Nearest Neighbour Search__](https://codeforces.com/blog/entry/54080)  
+  Locality-Sensitive Hashing, K-Dimensional Tree, Vantage-Point Tree
 
 ## Joke Threads
 
