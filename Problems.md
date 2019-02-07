@@ -55,3 +55,6 @@
 
 ### Sortings and Rearrangement Arguments 
 * https://codeforces.com/contest/798/problem/D ([submission](https://codeforces.com/contest/798/submission/49387937))
+
+### Invariants
+* https://codeforces.com/contest/1110/problem/E ([submission](https://codeforces.com/contest/1110/submission/49599570))
