@@ -58,3 +58,6 @@
 
 ### Invariants
 * https://codeforces.com/contest/1110/problem/E ([submission](https://codeforces.com/contest/1110/submission/49599570))
+
+### Painful Casework
+* https://codeforces.com/contest/1110/problem/G([submission](https://codeforces.com/contest/1110/submission/49634223))
