@@ -61,3 +61,6 @@
 
 ### Painful Casework
 * https://codeforces.com/contest/1110/problem/G ([submission](https://codeforces.com/contest/1110/submission/49634223))
+
+### Array Iteration Invariants
+*  https://codeforces.com/contest/466/problem/D ([submission](https://codeforces.com/contest/466/submission/49657432))
