@@ -23,7 +23,7 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__(tourist) Euler Paths__](https://codeforces.com/contest/723/submission/32231520)  
 * [__(tourist) Splay Trees__](https://codeforces.com/contest/899/submission/44463457)  
 * [__(tourist) Hungarian Algorithm__](https://codeforces.com/contest/575/submission/32309104)
-* [__(tourist) Segment Trees__](https://codeforces.com/contest/875/submission/31464970)  or [this](https://codeforces.com/contest/981/submission/38663058).
+* [__(tourist) Segment Trees__](https://codeforces.com/contest/1110/submission/49588803) or [this](https://codeforces.com/contest/875/submission/31464970) or [this](https://codeforces.com/contest/981/submission/38663058).
 * [__(tourist) Debugging and FFT__](https://codeforces.com/contest/986/submission/42104811)  
 * [__(tourist) Number Theory Primitives__](https://codeforces.com/contest/986/submission/38743952)  
 * [__(tourist) Manachar's Algorithm__](https://codeforces.com/contest/17/submission/31475739)
