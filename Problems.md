@@ -65,3 +65,6 @@
 ### Array Iteration Invariants
 *  https://codeforces.com/contest/466/problem/D ([submission](https://codeforces.com/contest/466/submission/49657432))  
 *  https://codeforces.com/contest/689/problem/E ([submission](https://codeforces.com/contest/689/submission/49658937))  
+
+### Digit DP
+* (__TODO__) https://codeforces.com/problemset/problem/1073/E
