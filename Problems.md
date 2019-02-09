@@ -70,4 +70,4 @@
 * (__TODO__) https://codeforces.com/problemset/problem/1073/E
 
 ### Unclassified 2300 Combinatorics Problem Session
-* https://codeforces.com/problemset/problem/272/E  
+* https://codeforces.com/problemset/problem/272/E  ([submission](https://codeforces.com/contest/272/submission/49662900))
