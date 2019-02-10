@@ -72,3 +72,6 @@
 ### Unclassified 2300 Combinatorics Problem Session
 * https://codeforces.com/problemset/problem/272/E  ([submission](https://codeforces.com/contest/272/submission/49662900))
 * https://codeforces.com/contest/768/problem/F ([submission](https://codeforces.com/contest/768/submission/49665776))
+
+# Shortest Paths
+* (__TODO__) https://codeforces.com/problemset/problem/938/D
