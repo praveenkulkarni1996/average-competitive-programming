@@ -142,6 +142,9 @@ that I usually find on codeforces there.
 * [__Nearest Neighbour Search__](https://codeforces.com/blog/entry/54080)  
   Locality-Sensitive Hashing, K-Dimensional Tree, Vantage-Point Tree
 
+* [__How to read problem statements__](https://codeforces.com/blog/entry/62730)
+   Read the title.
+   
 ## Joke Threads
 
 * [__Top 10 optimizations 2017 - (collectors edition)__](https://codeforces.com/blog/entry/53168)  
