@@ -46,6 +46,7 @@
 
 ### Matrix Exponentiation
 * https://codeforces.com/problemset/problem/1106/F ([submission](https://codeforces.com/contest/1106/submission/49292689))
+* https://codeforces.com/contest/1117/problem/D ([submission](https://codeforces.com/contest/1117/submission/50135254))
 
 ### Convex Hull Trick 
 * (__TODO__) https://codeforces.com/problemset/problem/1083/E
@@ -78,4 +79,4 @@
 * (__TODO__) https://codeforces.com/problemset/problem/558/C
 
 ## Interactive Problems
-* [__117E: Decypher the String__](https://codeforces.com/contest/1117/problem/E) : [submission](https://codeforces.com/contest/1117/submission/50138377)
+* [__1117E: Decypher the String__](https://codeforces.com/contest/1117/problem/E) : [submission](https://codeforces.com/contest/1117/submission/50138377)
