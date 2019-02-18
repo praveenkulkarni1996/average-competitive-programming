@@ -76,3 +76,6 @@
 ## Shortest Paths
 * (__TODO__) https://codeforces.com/problemset/problem/938/D
 * (__TODO__) https://codeforces.com/problemset/problem/558/C
+
+## Interactive Problems
+* [__117E: Decypher the String__](https://codeforces.com/contest/1117/problem/E) : [submission](https://codeforces.com/contest/1117/submission/50138377)
