@@ -1,5 +1,7 @@
 # Problems  
 
+This document needs assistance in finding more problems, as well as formatting. Please let me know if you are interested in helping out.
+
 ### GCD Inclusion Exclusion
 * https://codeforces.com/contest/839/problem/D
 * https://codeforces.com/contest/1036/problem/F ([submission](https://codeforces.com/contest/1036/submission/49042562))
@@ -78,5 +80,9 @@
 * (__TODO__) https://codeforces.com/problemset/problem/938/D
 * (__TODO__) https://codeforces.com/problemset/problem/558/C
 
+### Fight Sequence
+* (__TODO__) [__792F: Mages and Monsters__](https://codeforces.com/contest/792/problem/F)
+
 ## Interactive Problems
 * [__1117E: Decypher the String__](https://codeforces.com/contest/1117/problem/E) : [submission](https://codeforces.com/contest/1117/submission/50138377)
+
