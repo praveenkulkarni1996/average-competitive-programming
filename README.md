@@ -14,6 +14,7 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__Disjoint Set Union__](https://codeforces.com/contest/1108/submission/48860924)
 * [__Lazy Segment Tree__](https://codeforces.com/contest/1108/submission/48857570)
 * [__Iterative Segment Tree__](https://codeforces.com/contest/1107/submission/49037542)
+* [__Fast Fourier Transform__](https://codeforces.com/contest/632/submission/50416557)
 
 ## Implementations
 
