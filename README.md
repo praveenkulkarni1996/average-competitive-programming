@@ -146,6 +146,9 @@ that I usually find on codeforces there.
 * [__How to read problem statements__](https://codeforces.com/blog/entry/62730)
    Read the title.
    
+* [__Deque and Multi-dimensional Subarray Minimas](https://codeforces.com/blog/entry/53810)  
+   Why use RMQ when DQ does trick?  
+   
 ## Joke Threads
 
 * [__Top 10 optimizations 2017 - (collectors edition)__](https://codeforces.com/blog/entry/53168)  
