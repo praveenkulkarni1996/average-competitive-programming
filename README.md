@@ -146,8 +146,11 @@ that I usually find on codeforces there.
 * [__How to read problem statements__](https://codeforces.com/blog/entry/62730)
    Read the title.
    
-* [__Deque and Multi-dimensional Subarray Minimas](https://codeforces.com/blog/entry/53810)  
+* [__Deque and Multi-dimensional Subarray Minimas__](https://codeforces.com/blog/entry/53810)  
    Why use RMQ when DQ does trick?  
+   
+* [__Chinese Remainder Theorem__](https://codeforces.com/blog/entry/61290)
+   Explained in a crisp and practical manner. 
    
 ## Joke Threads
 
