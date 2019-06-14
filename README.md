@@ -149,8 +149,11 @@ that I usually find on codeforces there.
 * [__Deque and Multi-dimensional Subarray Minimas__](https://codeforces.com/blog/entry/53810)  
    Why use RMQ when DQ does trick?  
    
-* [__Chinese Remainder Theorem__](https://codeforces.com/blog/entry/61290)
+* [__Chinese Remainder Theorem__](https://codeforces.com/blog/entry/61290)  
    Explained in a crisp and practical manner. 
+   
+* [__Geometry Book__](https://codeforces.com/blog/entry/59129)  
+   Blog introducing a free and open source handbook/textbook on geometry for competitive programming.  
    
 ## Joke Threads
 
