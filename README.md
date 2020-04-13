@@ -40,7 +40,8 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__(tourist) Sieves__](https://codeforces.com/contest/776/submission/24922427) for Euler Phi
 * [__(rajat1603) Convex Hull Trick__](https://codeforces.com/contest/1083/submission/46994711)  
 * [__(darooha) Link Cut Trees__](https://codeforces.com/contest/117/submission/860934) (from the inventor himself).  
-* [__(neal) RMQ and LCA__](https://codeforces.com/contest/1328/submission/74422322). 
+* [__(neal) RMQ and LCA and more!__](https://codeforces.com/contest/1328/submission/74422322). 
+* [__(neal) Prime factorization algorithms](https://codeforces.com/contest/1305/submission/72529043).  
 
 
 ## Blogs
