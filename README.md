@@ -39,7 +39,8 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__(O...O) Number Theory Suite__](https://codeforces.com/contest/687/submission/18786970)  
 * [__(tourist) Sieves__](https://codeforces.com/contest/776/submission/24922427) for Euler Phi
 * [__(rajat1603) Convex Hull Trick__](https://codeforces.com/contest/1083/submission/46994711)  
-* [__(darooha) Link Cut Trees__](https://codeforces.com/contest/117/submission/860934) (from the inventor himself).
+* [__(darooha) Link Cut Trees__](https://codeforces.com/contest/117/submission/860934) (from the inventor himself).  
+* [__(neal) RMQ and LCA__](https://codeforces.com/contest/1328/submission/74422322). 
 
 
 ## Blogs
