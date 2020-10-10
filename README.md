@@ -22,6 +22,7 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__(tourist) Shortest Path Algorithms__](https://codeforces.com/contest/757/submission/32228238): includes Dijkstra and Dominators
 * [__(tourist) Flow Algorithms__](https://codeforces.com/contest/343/submission/31188435): includes Gomory Hu
 * [__(tourist) Graph Algorithms__](https://codeforces.com/contest/860/submission/32159885): includes DFS forests, Heavy-Light Decomposition and Fenwick Trees (bonus!) or [this](https://codeforces.com/contest/966/submission/37721887).
+* [__(tourist) Bipartite Matching__](https://codeforces.com/contest/1423/submission/94771096).  
 * [__(tourist) Euler Paths__](https://codeforces.com/contest/723/submission/32231520)  
 * [__(tourist) Splay Trees__](https://codeforces.com/contest/899/submission/44463457)  
 * [__(tourist) Hungarian Algorithm__](https://codeforces.com/contest/575/submission/32309104)
