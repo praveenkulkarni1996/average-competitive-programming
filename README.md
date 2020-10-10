@@ -19,7 +19,7 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__Bipartite Matching__](https://codeforces.com/contest/1423/submission/95068716)
 
 ## Implementations
-
+* [__(tourist) Primality Algorithms__](https://codeforces.com/contest/1423/submission/94770723).  
 * [__(tourist) Shortest Path Algorithms__](https://codeforces.com/contest/757/submission/32228238): includes Dijkstra and Dominators
 * [__(tourist) Flow Algorithms__](https://codeforces.com/contest/343/submission/31188435): includes Gomory Hu
 * [__(tourist) Graph Algorithms__](https://codeforces.com/contest/860/submission/32159885): includes DFS forests, Heavy-Light Decomposition and Fenwick Trees (bonus!) or [this](https://codeforces.com/contest/966/submission/37721887).
