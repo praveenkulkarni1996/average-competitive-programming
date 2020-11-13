@@ -35,6 +35,7 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__(tourist) Treaps__](https://codeforces.com/contest/856/submission/30270604) or [this](https://codeforces.com/contest/762/submission/44462504) or [this](https://codeforces.com/contest/899/submission/44463469). These implementations are probably very similar. 
 * [__(tourist) Ukkonnen__](https://codeforces.com/contest/1037/submission/42390789)  
 * [__(tourist) Suffix Array with LCP__](https://codeforces.com/contest/1043/submission/45151661)  
+* [__(tourist) Mincost Maxflow__](https://codeforces.com/contest/818/submission/95417888)  
 * [__(tourist) KMP Algorithm__](https://codeforces.com/contest/1055/submission/45528324)  
 * [__(mnbvmar) Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
 * [__(mnbvmar) Geometry Suite and Dinic__](https://codeforces.com/contest/1055/submission/45543950)  
