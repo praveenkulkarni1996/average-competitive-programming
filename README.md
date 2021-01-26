@@ -23,6 +23,7 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 
 * [__Sparse Table__](https://codeforces.com/contest/1450/submission/100535288)
 * [__Topological Sort__](https://codeforces.com/contest/1441/submission/97370281)
+* [__Mincost Maxflow__](https://codeforces.com/contest/818/submission/95417888): Uses non-standard GCC extensions.  
 * [__(tourist) Primality Algorithms__](https://codeforces.com/contest/1423/submission/94770723).  
 * [__(tourist) Shortest Path Algorithms__](https://codeforces.com/contest/757/submission/32228238): includes Dijkstra and Dominators
 * [__(tourist) Flow Algorithms__](https://codeforces.com/contest/343/submission/31188435): includes Gomory Hu
