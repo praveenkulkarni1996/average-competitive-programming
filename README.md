@@ -19,7 +19,9 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__Bipartite Matching__](https://codeforces.com/contest/1423/submission/95068716)
 * [__Two Sat and Tarjan SCC__](https://codeforces.com/contest/1423/submission/95068716)
 
-## Implementations
+## tourist's Implementations
+
+* [__Sparse Table__](https://codeforces.com/contest/1450/submission/100535288)
 * [__(tourist) Primality Algorithms__](https://codeforces.com/contest/1423/submission/94770723).  
 * [__(tourist) Shortest Path Algorithms__](https://codeforces.com/contest/757/submission/32228238): includes Dijkstra and Dominators
 * [__(tourist) Flow Algorithms__](https://codeforces.com/contest/343/submission/31188435): includes Gomory Hu
@@ -39,6 +41,8 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__(tourist) Mincost Maxflow__](https://codeforces.com/contest/818/submission/95417888)  
 * [__(tourist) KMP Algorithm__](https://codeforces.com/contest/1055/submission/45528324)  
 * [__(tourist) Points and Polar comparison__](https://codeforces.com/contest/1468/submission/102318508)   
+
+## Other Implementations
 * [__(mnbvmar) Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
 * [__(mnbvmar) Geometry Suite and Dinic__](https://codeforces.com/contest/1055/submission/45543950)  
 * [__(Benq) Mincost Maxflow__](https://codeforces.com/contest/1061/submission/46078212)  
