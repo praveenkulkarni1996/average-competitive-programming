@@ -18,6 +18,7 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__Convex Hull of Linear Functions__](https://codeforces.com/contest/1388/submission/89469174)
 * [__Bipartite Matching__](https://codeforces.com/contest/1423/submission/95068716)
 * [__Two Sat and Tarjan SCC__](https://codeforces.com/contest/1423/submission/95068716)
+* [__Tree diameter__](https://codeforces.com/contest/120/submission/105518018)
 
 ## tourist's Implementations
 
