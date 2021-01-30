@@ -181,8 +181,8 @@ that I usually find on codeforces there.
 
 ## Problem Collection Blogs
 
-* [__Segment Tree Problems__](https://codeforces.com/blog/entry/22616)  
-  Exactly what it the title reads.
+* [__Segment Tree Problems__](https://codeforces.com/blog/entry/22616)    
+* [__Matrix Exponentiation Problems__](https://codeforces.com/blog/entry/80195)
 
 ## Errichto's Streams
 
