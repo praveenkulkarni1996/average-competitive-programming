@@ -22,6 +22,7 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 
 ## tourist's Implementations
 
+* [__Fenwick Tree__](https://codeforces.com/contest/1468/submission/102307916) with template usage. 
 * [__Sparse Table__](https://codeforces.com/contest/1450/submission/100535288)
 * [__Topological Sort__](https://codeforces.com/contest/1441/submission/97370281)
 * [__Mincost Maxflow__](https://codeforces.com/contest/818/submission/95417888): Uses non-standard GCC extensions.
