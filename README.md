@@ -192,3 +192,13 @@ Kamil deserves a subheading on his own.
 __Lecture 1__: TODO  
 __Lecture 2__: TODO  
 __Lecture 3__: Dynamic programming [__Notes__](https://codeforces.com/blog/entry/63533)  
+
+
+## Curated Ideas:
+
+* Mo's Algorithm
+  * [Hilbert Order](https://codeforces.com/blog/entry/61203)
+
+
+
+
