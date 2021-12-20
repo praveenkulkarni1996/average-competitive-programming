@@ -27,12 +27,12 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__Topological Sort__](https://codeforces.com/contest/1441/submission/97370281)
 * [__Mincost Maxflow__](https://codeforces.com/contest/818/submission/95417888): Uses non-standard GCC extensions.
 * [__Hadamard, and matrices__](https://codeforces.com/contest/1464/submission/101882555): I don't understand this, refer to editorial. 
-* [__NTT: Number Theoretic Transform__](https://codeforces.com/contest/1450/submission/100588135)
+* [__NTT: Number Theoretic Transform__](https://codeforces.com/contest/1450/submission/100588135) or [this](https://codeforces.com/contest/1553/submission/123334989).  
 * [__Prime Sieves__](https://codeforces.com/contest/1468/submission/102316199) 
 * [__(tourist) Primality Algorithms__](https://codeforces.com/contest/1423/submission/94770723).  
 * [__(tourist) Shortest Path Algorithms__](https://codeforces.com/contest/757/submission/32228238): includes Dijkstra and Dominators
 * [__(tourist) Flow Algorithms__](https://codeforces.com/contest/343/submission/31188435): includes Gomory Hu
-* [__(tourist) Graph Algorithms__](https://codeforces.com/contest/860/submission/32159885): includes DFS forests, Heavy-Light Decomposition and Fenwick Trees (bonus!) or [this](https://codeforces.com/contest/966/submission/37721887).
+* [__(tourist) Graph Algorithms__](https://codeforces.com/contest/860/submission/32159885): includes DFS forests, Heavy-Light Decomposition and Fenwick Trees (bonus!) or [this](https://codeforces.com/contest/966/submission/37721887), or [this](https://codeforces.com/contest/1555/submission/124312339). 
 * [__(tourist) Bipartite Matching__](https://codeforces.com/contest/1423/submission/94771096).  
 * [__(tourist) Euler Paths__](https://codeforces.com/contest/723/submission/32231520)  
 * [__(tourist) Splay Trees__](https://codeforces.com/contest/899/submission/44463457)  
@@ -47,7 +47,10 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__(tourist) Suffix Array with LCP__](https://codeforces.com/contest/1043/submission/45151661)  
 * [__(tourist) Mincost Maxflow__](https://codeforces.com/contest/818/submission/95417888)  
 * [__(tourist) KMP Algorithm__](https://codeforces.com/contest/1055/submission/45528324)  
+* [__(tourist) Z-function__](https://codeforces.com/contest/1598/submission/131442050)
 * [__(tourist) Points and Polar comparison__](https://codeforces.com/contest/1468/submission/102318508)   
+* [__(tourist) Hash Functions__](https://codeforces.com/contest/1609/submission/137263072)
+* [__(toursit) Radix Sort__](https://codeforces.com/contest/1572/submission/129192769)
 
 ## Other Implementations
 * [__(mnbvmar) Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
