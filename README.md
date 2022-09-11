@@ -56,8 +56,9 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 ## Other Implementations
 
 #### Neal:
-* [Cartesian Tree](https://codeforces.com/contest/1718/submission/169291595)
+* [Bipartite Check](https://codeforces.com/contest/1702/submission/163488495)
 * [Bipartite Union Find](https://codeforces.com/contest/1713/submission/167264824)  
+* [Cartesian Tree](https://codeforces.com/contest/1718/submission/169291595)
 * [Tree algorithms](https://codeforces.com/contest/1714/submission/166524932) – LCA, RMQ, Heavy-Light decompositions. 
 * [Monotonic Hull DP](https://codeforces.com/contest/1715/submission/169118995)
 * [Binary Trie](https://codeforces.com/contest/1702/submission/163600412) and [array trie](https://codeforces.com/contest/1702/submission/163521224). 
