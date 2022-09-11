@@ -50,9 +50,15 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__(tourist) Z-function__](https://codeforces.com/contest/1598/submission/131442050)
 * [__(tourist) Points and Polar comparison__](https://codeforces.com/contest/1468/submission/102318508)   
 * [__(tourist) Hash Functions__](https://codeforces.com/contest/1609/submission/137263072)
-* [__(toursit) Radix Sort__](https://codeforces.com/contest/1572/submission/129192769)
+* [__(tourist) Radix Sort__](https://codeforces.com/contest/1572/submission/129192769)
+
 
 ## Other Implementations
+
+#### Neal:
+* [Cartesian Tree](https://codeforces.com/contest/1718/submission/169291595)
+
+#### Others:
 * [__(mnbvmar) Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
 * [__(mnbvmar) Geometry Suite and Dinic__](https://codeforces.com/contest/1055/submission/45543950)  
 * [__(Benq) Mincost Maxflow__](https://codeforces.com/contest/1061/submission/46078212)  
@@ -63,6 +69,8 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__(neal) RMQ and LCA and more!__](https://codeforces.com/contest/1328/submission/74422322). 
 * [__(neal) Prime factorization algorithms__](https://codeforces.com/contest/1305/submission/72529043).  
 * [__(neal) Dinic__](https://codeforces.com/contest/1717/submission/171427648), and [dinic matching](https://codeforces.com/contest/1721/submission/169874051) with bonus hashing.  
+
+
 
 ## Blogs
 
