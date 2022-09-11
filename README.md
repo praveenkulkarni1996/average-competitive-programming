@@ -62,7 +62,7 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__(darooha) Link Cut Trees__](https://codeforces.com/contest/117/submission/860934) (from the inventor himself).  
 * [__(neal) RMQ and LCA and more!__](https://codeforces.com/contest/1328/submission/74422322). 
 * [__(neal) Prime factorization algorithms__](https://codeforces.com/contest/1305/submission/72529043).  
-
+* [__(neal) Dinic__](https://codeforces.com/contest/1717/submission/171427648)
 
 ## Blogs
 
