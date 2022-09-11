@@ -60,7 +60,7 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [Bipartite Union Find](https://codeforces.com/contest/1713/submission/167264824)  
 * [Tree algorithms](https://codeforces.com/contest/1714/submission/166524932) – LCA, RMQ, Heavy-Light decompositions. 
 * [Monotonic Hull DP](https://codeforces.com/contest/1715/submission/169118995)
-* [Binary Trie](https://codeforces.com/contest/1702/submission/163600412)
+* [Binary Trie](https://codeforces.com/contest/1702/submission/163600412) and [array trie](https://codeforces.com/contest/1702/submission/163521224). 
 
 #### Others:
 * [__(mnbvmar) Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
