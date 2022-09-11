@@ -57,7 +57,8 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 
 #### Neal:
 * [Cartesian Tree](https://codeforces.com/contest/1718/submission/169291595)
-* [Bipartite Union Find](https://codeforces.com/contest/1713/submission/167264824)
+* [Bipartite Union Find](https://codeforces.com/contest/1713/submission/167264824)  
+* [Tree algorithms](https://codeforces.com/contest/1714/submission/166524932) – LCA, RMQ, Heavy-Light decompositions. 
 
 #### Others:
 * [__(mnbvmar) Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
