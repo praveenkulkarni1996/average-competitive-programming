@@ -64,6 +64,7 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [Binary Trie](https://codeforces.com/contest/1702/submission/163600412) and [array trie](https://codeforces.com/contest/1702/submission/163521224). 
 
 #### Others:
+* [__(rama_pang) Network Simplex__](https://codeforces.com/contest/1728/submission/171417640)
 * [__(mnbvmar) Geometry Suite__](https://codeforces.com/contest/1078/submission/45942470)  
 * [__(mnbvmar) Geometry Suite and Dinic__](https://codeforces.com/contest/1055/submission/45543950)  
 * [__(Benq) Mincost Maxflow__](https://codeforces.com/contest/1061/submission/46078212)  
