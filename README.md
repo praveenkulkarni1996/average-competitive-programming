@@ -19,6 +19,8 @@ Please also take a look at the [Problems.md](./Problems.md) file, which has grou
 * [__Bipartite Matching__](https://codeforces.com/contest/1423/submission/95068716)
 * [__Two Sat and Tarjan SCC__](https://codeforces.com/contest/1423/submission/95068716)
 * [__Tree diameter__](https://codeforces.com/contest/120/submission/105518018)
+* [__Modular Arithmetic__](https://codeforces.com/contest/156/submission/239173318)
+
 
 ## tourist's Implementations
 
